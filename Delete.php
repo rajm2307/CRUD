@@ -15,7 +15,7 @@ if ($data) {
     ?>
 
         
-    <meta http-equiv = "refresh" content = "0; url = http://localhost/crud%20operations/display.php" />
+    <meta http-equiv = "refresh" content = "0; url = http://localhost/CRUD/display.php" />
 
 
     <?php
